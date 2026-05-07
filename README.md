@@ -110,16 +110,6 @@ animals.clear();
 
 ---
 
-## 🔮 Future Improvements
-
-📥 Add user input using `Scanner`  
-🔍 Add searching functionality  
-📊 Add sorting features  
-🗂️ Demonstrate more collection methods  
-🖥️ GUI version using Java Swing  
-
----
-
 ## 🚀 How to Run
 
 ```bash
